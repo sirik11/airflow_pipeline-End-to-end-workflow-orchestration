@@ -1,0 +1,3 @@
+# Requirements for running the Airflow DAG locally or in a custom container
+apache-airflow==2.7.3
+# Additional providers may be needed for KubernetesExecutor, sensors, etc.
